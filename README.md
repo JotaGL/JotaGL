@@ -1,8 +1,11 @@
-# 🌌 Welcome to My Github!
+# 〰️ Welcome to My Github!
 - 👨‍💻 My Name is João Gabriel Lima.
 - 🗺️ I'm From Wonderful City, Rio de Janeiro/Brazil.
 - 💻 Studies Computer Science.
 - 📚 Currently Learning About Java.
+
+# 📺 Interests and Hobbies:
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JotaGL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
