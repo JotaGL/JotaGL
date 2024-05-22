@@ -5,7 +5,7 @@
 - 📚 Currently Learning About Java.
 
 # 📺 Interests and Hobbies:
-
+I really like playing games, watching series and films (of the most diverse variety), as well as reading and listening to music.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JotaGL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
