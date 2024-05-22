@@ -1,7 +1,7 @@
 # Welcome to My Github!
-- 
+- 👨‍💻 My Name is João Gabriel Lima.
 - 🗺️ I'm From Wonderful City, Rio de Janeiro/Brazil.
-- 👨‍💻 Studies Computer Science.
+- 💻 Studies Computer Science.
 - 📚 Currently Learning About Java.
 
 # 📊 GitHub Stats:
