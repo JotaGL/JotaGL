@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JotaGL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-# 💻 Tech Stack:
+# 🖥️ Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🏆 GitHub Trophies
